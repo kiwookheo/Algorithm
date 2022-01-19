@@ -35,7 +35,6 @@ int main() {
 			if (vis[nx][ny] || board[nx][ny] == 0) continue;
 			vis[nx][ny] = 1;
 			q.push({ nx,ny });
-			alalalalall;
 		}
 	}
 }
